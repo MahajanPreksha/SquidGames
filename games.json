@@ -1,0 +1,50 @@
+[
+    {
+        "game_id": "G001",
+        "name": "Red Light Green Light",
+        "difficulty": 1,
+        "max_players": 190
+    },
+    {
+        "game_id": "G002",
+        "name": "Tug of War",
+        "difficulty": 4,
+        "max_players": 180
+    },
+    {
+        "game_id": "G003",
+        "name": "Marbles",
+        "difficulty": 1,
+        "max_players": 170
+    },
+    {
+        "game_id": "G004",
+        "name": "Glass Bridge",
+        "difficulty": 7,
+        "max_players": 160
+    },
+    {
+        "game_id": "G005",
+        "name": "Final Game",
+        "difficulty": 3,
+        "max_players": 150
+    },
+    {
+        "game_id": "G006",
+        "name": "Honeycomb Challenge",
+        "difficulty": 1,
+        "max_players": 140
+    },
+    {
+        "game_id": "G007",
+        "name": "Memory Maze",
+        "difficulty": 4,
+        "max_players": 130
+    },
+    {
+        "game_id": "G008",
+        "name": "Balloon Pop",
+        "difficulty": 9,
+        "max_players": 120
+    }
+]

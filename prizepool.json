@@ -1,0 +1,42 @@
+[
+    {
+        "current_pool": 912000000,
+        "game_id": "G001",
+        "eliminated_players": 48
+    },
+    {
+        "current_pool": 1368000000,
+        "game_id": "G002",
+        "eliminated_players": 23
+    },
+    {
+        "current_pool": 1824000000,
+        "game_id": "G003",
+        "eliminated_players": 37
+    },
+    {
+        "current_pool": 2280000000,
+        "game_id": "G004",
+        "eliminated_players": 14
+    },
+    {
+        "current_pool": 2736000000,
+        "game_id": "G005",
+        "eliminated_players": 16
+    },
+    {
+        "current_pool": 3192000000,
+        "game_id": "G006",
+        "eliminated_players": 14
+    },
+    {
+        "current_pool": 3648000000,
+        "game_id": "G007",
+        "eliminated_players": 49
+    },
+    {
+        "current_pool": 4104000000,
+        "game_id": "G008",
+        "eliminated_players": 43
+    }
+]

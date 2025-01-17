@@ -1,0 +1,902 @@
+[
+    {
+        "elimination_id": "E0001",
+        "player_id": "P161",
+        "game_id": "G001",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0002",
+        "player_id": "P156",
+        "game_id": "G006",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0003",
+        "player_id": "P440",
+        "game_id": "G007",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0004",
+        "player_id": "P272",
+        "game_id": "G002",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0005",
+        "player_id": "P052",
+        "game_id": "G007",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0006",
+        "player_id": "P383",
+        "game_id": "G003",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0007",
+        "player_id": "P422",
+        "game_id": "G003",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0008",
+        "player_id": "P347",
+        "game_id": "G002",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0009",
+        "player_id": "P408",
+        "game_id": "G002",
+        "reason": "Ran out of time"
+    },
+    {
+        "elimination_id": "E0010",
+        "player_id": "P442",
+        "game_id": "G005",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0011",
+        "player_id": "P386",
+        "game_id": "G005",
+        "reason": "Ran out of time"
+    },
+    {
+        "elimination_id": "E0012",
+        "player_id": "P216",
+        "game_id": "G002",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0013",
+        "player_id": "P174",
+        "game_id": "G002",
+        "reason": "Broke the rules"
+    },
+    {
+        "elimination_id": "E0014",
+        "player_id": "P340",
+        "game_id": "G005",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0015",
+        "player_id": "P399",
+        "game_id": "G002",
+        "reason": "Ran out of time"
+    },
+    {
+        "elimination_id": "E0016",
+        "player_id": "P200",
+        "game_id": "G002",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0017",
+        "player_id": "P272",
+        "game_id": "G008",
+        "reason": "Broke the rules"
+    },
+    {
+        "elimination_id": "E0018",
+        "player_id": "P179",
+        "game_id": "G001",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0019",
+        "player_id": "P348",
+        "game_id": "G007",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0020",
+        "player_id": "P278",
+        "game_id": "G007",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0021",
+        "player_id": "P275",
+        "game_id": "G002",
+        "reason": "Broke the rules"
+    },
+    {
+        "elimination_id": "E0022",
+        "player_id": "P320",
+        "game_id": "G006",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0023",
+        "player_id": "P283",
+        "game_id": "G008",
+        "reason": "Broke the rules"
+    },
+    {
+        "elimination_id": "E0024",
+        "player_id": "P014",
+        "game_id": "G003",
+        "reason": "Broke the rules"
+    },
+    {
+        "elimination_id": "E0025",
+        "player_id": "P246",
+        "game_id": "G003",
+        "reason": "Broke the rules"
+    },
+    {
+        "elimination_id": "E0026",
+        "player_id": "P221",
+        "game_id": "G005",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0027",
+        "player_id": "P226",
+        "game_id": "G006",
+        "reason": "Broke the rules"
+    },
+    {
+        "elimination_id": "E0028",
+        "player_id": "P094",
+        "game_id": "G002",
+        "reason": "Broke the rules"
+    },
+    {
+        "elimination_id": "E0029",
+        "player_id": "P375",
+        "game_id": "G002",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0030",
+        "player_id": "P267",
+        "game_id": "G004",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0031",
+        "player_id": "P284",
+        "game_id": "G004",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0032",
+        "player_id": "P324",
+        "game_id": "G006",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0033",
+        "player_id": "P052",
+        "game_id": "G008",
+        "reason": "Broke the rules"
+    },
+    {
+        "elimination_id": "E0034",
+        "player_id": "P150",
+        "game_id": "G001",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0035",
+        "player_id": "P264",
+        "game_id": "G006",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0036",
+        "player_id": "P199",
+        "game_id": "G002",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0037",
+        "player_id": "P127",
+        "game_id": "G001",
+        "reason": "Broke the rules"
+    },
+    {
+        "elimination_id": "E0038",
+        "player_id": "P329",
+        "game_id": "G007",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0039",
+        "player_id": "P381",
+        "game_id": "G004",
+        "reason": "Ran out of time"
+    },
+    {
+        "elimination_id": "E0040",
+        "player_id": "P371",
+        "game_id": "G005",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0041",
+        "player_id": "P011",
+        "game_id": "G001",
+        "reason": "Ran out of time"
+    },
+    {
+        "elimination_id": "E0042",
+        "player_id": "P394",
+        "game_id": "G004",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0043",
+        "player_id": "P243",
+        "game_id": "G006",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0044",
+        "player_id": "P170",
+        "game_id": "G004",
+        "reason": "Broke the rules"
+    },
+    {
+        "elimination_id": "E0045",
+        "player_id": "P356",
+        "game_id": "G007",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0046",
+        "player_id": "P002",
+        "game_id": "G002",
+        "reason": "Broke the rules"
+    },
+    {
+        "elimination_id": "E0047",
+        "player_id": "P392",
+        "game_id": "G007",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0048",
+        "player_id": "P286",
+        "game_id": "G006",
+        "reason": "Ran out of time"
+    },
+    {
+        "elimination_id": "E0049",
+        "player_id": "P230",
+        "game_id": "G001",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0050",
+        "player_id": "P165",
+        "game_id": "G001",
+        "reason": "Ran out of time"
+    },
+    {
+        "elimination_id": "E0051",
+        "player_id": "P180",
+        "game_id": "G002",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0052",
+        "player_id": "P064",
+        "game_id": "G005",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0053",
+        "player_id": "P016",
+        "game_id": "G001",
+        "reason": "Ran out of time"
+    },
+    {
+        "elimination_id": "E0054",
+        "player_id": "P189",
+        "game_id": "G006",
+        "reason": "Ran out of time"
+    },
+    {
+        "elimination_id": "E0055",
+        "player_id": "P150",
+        "game_id": "G006",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0056",
+        "player_id": "P365",
+        "game_id": "G003",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0057",
+        "player_id": "P064",
+        "game_id": "G001",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0058",
+        "player_id": "P116",
+        "game_id": "G004",
+        "reason": "Broke the rules"
+    },
+    {
+        "elimination_id": "E0059",
+        "player_id": "P350",
+        "game_id": "G002",
+        "reason": "Broke the rules"
+    },
+    {
+        "elimination_id": "E0060",
+        "player_id": "P152",
+        "game_id": "G007",
+        "reason": "Ran out of time"
+    },
+    {
+        "elimination_id": "E0061",
+        "player_id": "P145",
+        "game_id": "G002",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0062",
+        "player_id": "P259",
+        "game_id": "G005",
+        "reason": "Broke the rules"
+    },
+    {
+        "elimination_id": "E0063",
+        "player_id": "P111",
+        "game_id": "G003",
+        "reason": "Broke the rules"
+    },
+    {
+        "elimination_id": "E0064",
+        "player_id": "P224",
+        "game_id": "G001",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0065",
+        "player_id": "P383",
+        "game_id": "G004",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0066",
+        "player_id": "P438",
+        "game_id": "G005",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0067",
+        "player_id": "P450",
+        "game_id": "G006",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0068",
+        "player_id": "P162",
+        "game_id": "G007",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0069",
+        "player_id": "P150",
+        "game_id": "G006",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0070",
+        "player_id": "P410",
+        "game_id": "G004",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0071",
+        "player_id": "P035",
+        "game_id": "G002",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0072",
+        "player_id": "P154",
+        "game_id": "G005",
+        "reason": "Broke the rules"
+    },
+    {
+        "elimination_id": "E0073",
+        "player_id": "P323",
+        "game_id": "G001",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0074",
+        "player_id": "P447",
+        "game_id": "G001",
+        "reason": "Ran out of time"
+    },
+    {
+        "elimination_id": "E0075",
+        "player_id": "P456",
+        "game_id": "G004",
+        "reason": "Ran out of time"
+    },
+    {
+        "elimination_id": "E0076",
+        "player_id": "P345",
+        "game_id": "G008",
+        "reason": "Broke the rules"
+    },
+    {
+        "elimination_id": "E0077",
+        "player_id": "P049",
+        "game_id": "G002",
+        "reason": "Broke the rules"
+    },
+    {
+        "elimination_id": "E0078",
+        "player_id": "P024",
+        "game_id": "G003",
+        "reason": "Ran out of time"
+    },
+    {
+        "elimination_id": "E0079",
+        "player_id": "P182",
+        "game_id": "G004",
+        "reason": "Broke the rules"
+    },
+    {
+        "elimination_id": "E0080",
+        "player_id": "P268",
+        "game_id": "G002",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0081",
+        "player_id": "P051",
+        "game_id": "G007",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0082",
+        "player_id": "P175",
+        "game_id": "G001",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0083",
+        "player_id": "P140",
+        "game_id": "G002",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0084",
+        "player_id": "P353",
+        "game_id": "G005",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0085",
+        "player_id": "P292",
+        "game_id": "G003",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0086",
+        "player_id": "P421",
+        "game_id": "G003",
+        "reason": "Ran out of time"
+    },
+    {
+        "elimination_id": "E0087",
+        "player_id": "P190",
+        "game_id": "G001",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0088",
+        "player_id": "P214",
+        "game_id": "G004",
+        "reason": "Ran out of time"
+    },
+    {
+        "elimination_id": "E0089",
+        "player_id": "P142",
+        "game_id": "G002",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0090",
+        "player_id": "P188",
+        "game_id": "G003",
+        "reason": "Ran out of time"
+    },
+    {
+        "elimination_id": "E0091",
+        "player_id": "P162",
+        "game_id": "G007",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0092",
+        "player_id": "P075",
+        "game_id": "G008",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0093",
+        "player_id": "P159",
+        "game_id": "G008",
+        "reason": "Broke the rules"
+    },
+    {
+        "elimination_id": "E0094",
+        "player_id": "P167",
+        "game_id": "G008",
+        "reason": "Ran out of time"
+    },
+    {
+        "elimination_id": "E0095",
+        "player_id": "P456",
+        "game_id": "G006",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0096",
+        "player_id": "P353",
+        "game_id": "G008",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0097",
+        "player_id": "P217",
+        "game_id": "G008",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0098",
+        "player_id": "P186",
+        "game_id": "G004",
+        "reason": "Broke the rules"
+    },
+    {
+        "elimination_id": "E0099",
+        "player_id": "P068",
+        "game_id": "G001",
+        "reason": "Broke the rules"
+    },
+    {
+        "elimination_id": "E0100",
+        "player_id": "P282",
+        "game_id": "G005",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0101",
+        "player_id": "P115",
+        "game_id": "G006",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0102",
+        "player_id": "P295",
+        "game_id": "G001",
+        "reason": "Broke the rules"
+    },
+    {
+        "elimination_id": "E0103",
+        "player_id": "P104",
+        "game_id": "G006",
+        "reason": "Ran out of time"
+    },
+    {
+        "elimination_id": "E0104",
+        "player_id": "P250",
+        "game_id": "G006",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0105",
+        "player_id": "P224",
+        "game_id": "G007",
+        "reason": "Ran out of time"
+    },
+    {
+        "elimination_id": "E0106",
+        "player_id": "P185",
+        "game_id": "G005",
+        "reason": "Ran out of time"
+    },
+    {
+        "elimination_id": "E0107",
+        "player_id": "P454",
+        "game_id": "G001",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0108",
+        "player_id": "P144",
+        "game_id": "G002",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0109",
+        "player_id": "P105",
+        "game_id": "G006",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0110",
+        "player_id": "P011",
+        "game_id": "G002",
+        "reason": "Broke the rules"
+    },
+    {
+        "elimination_id": "E0111",
+        "player_id": "P201",
+        "game_id": "G001",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0112",
+        "player_id": "P273",
+        "game_id": "G001",
+        "reason": "Ran out of time"
+    },
+    {
+        "elimination_id": "E0113",
+        "player_id": "P055",
+        "game_id": "G006",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0114",
+        "player_id": "P372",
+        "game_id": "G006",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0115",
+        "player_id": "P115",
+        "game_id": "G004",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0116",
+        "player_id": "P225",
+        "game_id": "G006",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0117",
+        "player_id": "P351",
+        "game_id": "G001",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0118",
+        "player_id": "P054",
+        "game_id": "G006",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0119",
+        "player_id": "P246",
+        "game_id": "G005",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0120",
+        "player_id": "P182",
+        "game_id": "G004",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0121",
+        "player_id": "P375",
+        "game_id": "G001",
+        "reason": "Broke the rules"
+    },
+    {
+        "elimination_id": "E0122",
+        "player_id": "P268",
+        "game_id": "G002",
+        "reason": "Broke the rules"
+    },
+    {
+        "elimination_id": "E0123",
+        "player_id": "P113",
+        "game_id": "G002",
+        "reason": "Broke the rules"
+    },
+    {
+        "elimination_id": "E0124",
+        "player_id": "P275",
+        "game_id": "G003",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0125",
+        "player_id": "P003",
+        "game_id": "G001",
+        "reason": "Broke the rules"
+    },
+    {
+        "elimination_id": "E0126",
+        "player_id": "P220",
+        "game_id": "G005",
+        "reason": "Ran out of time"
+    },
+    {
+        "elimination_id": "E0127",
+        "player_id": "P439",
+        "game_id": "G001",
+        "reason": "Ran out of time"
+    },
+    {
+        "elimination_id": "E0128",
+        "player_id": "P438",
+        "game_id": "G005",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0129",
+        "player_id": "P235",
+        "game_id": "G004",
+        "reason": "Ran out of time"
+    },
+    {
+        "elimination_id": "E0130",
+        "player_id": "P001",
+        "game_id": "G004",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0131",
+        "player_id": "P117",
+        "game_id": "G004",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0132",
+        "player_id": "P359",
+        "game_id": "G001",
+        "reason": "Broke the rules"
+    },
+    {
+        "elimination_id": "E0133",
+        "player_id": "P106",
+        "game_id": "G008",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0134",
+        "player_id": "P122",
+        "game_id": "G008",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0135",
+        "player_id": "P121",
+        "game_id": "G003",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0136",
+        "player_id": "P357",
+        "game_id": "G007",
+        "reason": "Broke the rules"
+    },
+    {
+        "elimination_id": "E0137",
+        "player_id": "P239",
+        "game_id": "G004",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0138",
+        "player_id": "P204",
+        "game_id": "G002",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0139",
+        "player_id": "P224",
+        "game_id": "G006",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0140",
+        "player_id": "P195",
+        "game_id": "G006",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0141",
+        "player_id": "P111",
+        "game_id": "G002",
+        "reason": "Broke the rules"
+    },
+    {
+        "elimination_id": "E0142",
+        "player_id": "P434",
+        "game_id": "G007",
+        "reason": "Ran out of time"
+    },
+    {
+        "elimination_id": "E0143",
+        "player_id": "P012",
+        "game_id": "G002",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0144",
+        "player_id": "P141",
+        "game_id": "G007",
+        "reason": "Failed to complete the task"
+    },
+    {
+        "elimination_id": "E0145",
+        "player_id": "P121",
+        "game_id": "G008",
+        "reason": "Broke the rules"
+    },
+    {
+        "elimination_id": "E0146",
+        "player_id": "P195",
+        "game_id": "G006",
+        "reason": "Broke the rules"
+    },
+    {
+        "elimination_id": "E0147",
+        "player_id": "P147",
+        "game_id": "G002",
+        "reason": "Broke the rules"
+    },
+    {
+        "elimination_id": "E0148",
+        "player_id": "P320",
+        "game_id": "G003",
+        "reason": "Ran out of time"
+    },
+    {
+        "elimination_id": "E0149",
+        "player_id": "P370",
+        "game_id": "G001",
+        "reason": "Lost during the round"
+    },
+    {
+        "elimination_id": "E0150",
+        "player_id": "P304",
+        "game_id": "G008",
+        "reason": "Lost during the round"
+    }
+]

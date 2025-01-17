@@ -1,0 +1,3194 @@
+[
+  {
+    "player_id": "P001",
+    "name": "Emily Smith",
+    "age": 50,
+    "debt": 832711,
+    "status": "active"
+  },
+  {
+    "player_id": "P002",
+    "name": "Michael Anderson",
+    "age": 30,
+    "debt": 768385,
+    "status": "active"
+  },
+  {
+    "player_id": "P003",
+    "name": "David Doe",
+    "age": 42,
+    "debt": 783114,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P004",
+    "name": "Sophia Brown",
+    "age": 34,
+    "debt": 769296,
+    "status": "active"
+  },
+  {
+    "player_id": "P005",
+    "name": "Sarah Taylor",
+    "age": 18,
+    "debt": 336377,
+    "status": "active"
+  },
+  {
+    "player_id": "P006",
+    "name": "Jackie Chan",
+    "age": 28,
+    "debt": 280613,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P007",
+    "name": "Sophia Smith",
+    "age": 55,
+    "debt": 570612,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P008",
+    "name": "Evelyn Green",
+    "age": 22,
+    "debt": 865809,
+    "status": "active"
+  },
+  {
+    "player_id": "P009",
+    "name": "Julia White",
+    "age": 43,
+    "debt": 554405,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P010",
+    "name": "David White",
+    "age": 52,
+    "debt": 367269,
+    "status": "active"
+  },
+  {
+    "player_id": "P011",
+    "name": "Sarah Doe",
+    "age": 42,
+    "debt": 954132,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P012",
+    "name": "Ronn Gosling",
+    "age": 19,
+    "debt": 368930,
+    "status": "active"
+  },
+  {
+    "player_id": "P013",
+    "name": "Jane Taylor",
+    "age": 48,
+    "debt": 177172,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P014",
+    "name": "Ryan Reynolds",
+    "age": 27,
+    "debt": 109987,
+    "status": "active"
+  },
+  {
+    "player_id": "P015",
+    "name": "Swiftie Taylor",
+    "age": 27,
+    "debt": 665408,
+    "status": "active"
+  },
+  {
+    "player_id": "P016",
+    "name": "David Taylor",
+    "age": 34,
+    "debt": 214489,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P017",
+    "name": "Michael Johnson",
+    "age": 28,
+    "debt": 837250,
+    "status": "active"
+  },
+  {
+    "player_id": "P018",
+    "name": "David Johnson",
+    "age": 39,
+    "debt": 411116,
+    "status": "active"
+  },
+  {
+    "player_id": "P019",
+    "name": "John Doe",
+    "age": 60,
+    "debt": 658529,
+    "status": "active"
+  },
+  {
+    "player_id": "P020",
+    "name": "Chris Brown",
+    "age": 41,
+    "debt": 501183,
+    "status": "active"
+  },
+  {
+    "player_id": "P021",
+    "name": "Chris Lee",
+    "age": 49,
+    "debt": 371143,
+    "status": "active"
+  },
+  {
+    "player_id": "P022",
+    "name": "Chris Taylor",
+    "age": 42,
+    "debt": 445334,
+    "status": "active"
+  },
+  {
+    "player_id": "P023",
+    "name": "Olin Rogers",
+    "age": 23,
+    "debt": 164371,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P024",
+    "name": "Sophia Taylor",
+    "age": 49,
+    "debt": 370448,
+    "status": "active"
+  },
+  {
+    "player_id": "P025",
+    "name": "Chris Johnson",
+    "age": 30,
+    "debt": 552453,
+    "status": "active"
+  },
+  {
+    "player_id": "P026",
+    "name": "Hazel Richardson",
+    "age": 59,
+    "debt": 751965,
+    "status": "active"
+  },
+  {
+    "player_id": "P027",
+    "name": "Smily Smith",
+    "age": 50,
+    "debt": 174839,
+    "status": "active"
+  },
+  {
+    "player_id": "P028",
+    "name": "Nora Lee",
+    "age": 40,
+    "debt": 596405,
+    "status": "active"
+  },
+  {
+    "player_id": "P029",
+    "name": "Chris Green",
+    "age": 21,
+    "debt": 655573,
+    "status": "active"
+  },
+  {
+    "player_id": "P030",
+    "name": "Jane Green",
+    "age": 37,
+    "debt": 593668,
+    "status": "active"
+  },
+  {
+    "player_id": "P031",
+    "name": "Sarah Brown",
+    "age": 20,
+    "debt": 919190,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P032",
+    "name": "Sarah Lee",
+    "age": 42,
+    "debt": 546556,
+    "status": "active"
+  },
+  {
+    "player_id": "P033",
+    "name": "Jane Johnson",
+    "age": 49,
+    "debt": 226131,
+    "status": "active"
+  },
+  {
+    "player_id": "P034",
+    "name": "Jenny Doe",
+    "age": 28,
+    "debt": 194806,
+    "status": "active"
+  },
+  {
+    "player_id": "P035",
+    "name": "Jennifer Lee",
+    "age": 30,
+    "debt": 371041,
+    "status": "active"
+  },
+  {
+    "player_id": "P036",
+    "name": "Michael Cameron",
+    "age": 39,
+    "debt": 141235,
+    "status": "active"
+  },
+  {
+    "player_id": "P037",
+    "name": "John Green",
+    "age": 24,
+    "debt": 176877,
+    "status": "active"
+  },
+  {
+    "player_id": "P038",
+    "name": "John Johnson",
+    "age": 54,
+    "debt": 497848,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P039",
+    "name": "Ron Taylor",
+    "age": 24,
+    "debt": 644040,
+    "status": "active"
+  },
+  {
+    "player_id": "P040",
+    "name": "John White",
+    "age": 23,
+    "debt": 569971,
+    "status": "active"
+  },
+  {
+    "player_id": "P041",
+    "name": "Sophia Doe",
+    "age": 51,
+    "debt": 232275,
+    "status": "active"
+  },
+  {
+    "player_id": "P042",
+    "name": "Jane Smith",
+    "age": 46,
+    "debt": 298740,
+    "status": "active"
+  },
+  {
+    "player_id": "P043",
+    "name": "David Smith",
+    "age": 33,
+    "debt": 388173,
+    "status": "active"
+  },
+  {
+    "player_id": "P044",
+    "name": "Jessica Perez",
+    "age": 38,
+    "debt": 121055,
+    "status": "active"
+  },
+  {
+    "player_id": "P045",
+    "name": "Harrison Styles",
+    "age": 33,
+    "debt": 431573,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P046",
+    "name": "Jane Lee",
+    "age": 52,
+    "debt": 545315,
+    "status": "active"
+  },
+  {
+    "player_id": "P047",
+    "name": "Amy Larson",
+    "age": 40,
+    "debt": 540495,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P048",
+    "name": "Chris Smith",
+    "age": 58,
+    "debt": 899554,
+    "status": "active"
+  },
+  {
+    "player_id": "P049",
+    "name": "John Taylor",
+    "age": 20,
+    "debt": 466908,
+    "status": "active"
+  },
+  {
+    "player_id": "P050",
+    "name": "Timothy Estrada",
+    "age": 30,
+    "debt": 951169,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P051",
+    "name": "Michael Doe",
+    "age": 35,
+    "debt": 582881,
+    "status": "active"
+  },
+  {
+    "player_id": "P052",
+    "name": "Jane White",
+    "age": 57,
+    "debt": 759388,
+    "status": "active"
+  },
+  {
+    "player_id": "P053",
+    "name": "Kate Middleton",
+    "age": 31,
+    "debt": 800244,
+    "status": "active"
+  },
+  {
+    "player_id": "P054",
+    "name": "Tammy Brooks",
+    "age": 28,
+    "debt": 590236,
+    "status": "active"
+  },
+  {
+    "player_id": "P055",
+    "name": "Jeffrey Waters",
+    "age": 20,
+    "debt": 530459,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P056",
+    "name": "Michael Brown",
+    "age": 49,
+    "debt": 256550,
+    "status": "active"
+  },
+  {
+    "player_id": "P057",
+    "name": "Gemma Arterton",
+    "age": 53,
+    "debt": 785216,
+    "status": "active"
+  },
+  {
+    "player_id": "P058",
+    "name": "Sarah Johnson",
+    "age": 46,
+    "debt": 171281,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P059",
+    "name": "John Smith",
+    "age": 33,
+    "debt": 909517,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P060",
+    "name": "Elle Fanning",
+    "age": 24,
+    "debt": 855623,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P061",
+    "name": "Kimberly Vance",
+    "age": 60,
+    "debt": 624284,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P062",
+    "name": "John Lee",
+    "age": 42,
+    "debt": 584730,
+    "status": "active"
+  },
+  {
+    "player_id": "P063",
+    "name": "Samantha Collins",
+    "age": 53,
+    "debt": 532886,
+    "status": "active"
+  },
+  {
+    "player_id": "P064",
+    "name": "David Green",
+    "age": 21,
+    "debt": 322439,
+    "status": "active"
+  },
+  {
+    "player_id": "P065",
+    "name": "Sherri Fuller",
+    "age": 37,
+    "debt": 954443,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P066",
+    "name": "Mathew Grant",
+    "age": 27,
+    "debt": 878755,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P067",
+    "name": "David Lee",
+    "age": 52,
+    "debt": 152083,
+    "status": "active"
+  },
+  {
+    "player_id": "P068",
+    "name": "Tina Villanueva",
+    "age": 56,
+    "debt": 577499,
+    "status": "active"
+  },
+  {
+    "player_id": "P069",
+    "name": "Courtney James",
+    "age": 53,
+    "debt": 471665,
+    "status": "active"
+  },
+  {
+    "player_id": "P070",
+    "name": "Sophia Green",
+    "age": 28,
+    "debt": 867613,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P071",
+    "name": "Nolan Green",
+    "age": 25,
+    "debt": 816015,
+    "status": "active"
+  },
+  {
+    "player_id": "P072",
+    "name": "Sarah White",
+    "age": 35,
+    "debt": 226725,
+    "status": "active"
+  },
+  {
+    "player_id": "P073",
+    "name": "Jill Johnson",
+    "age": 24,
+    "debt": 567663,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P074",
+    "name": "Richard Gere",
+    "age": 49,
+    "debt": 763218,
+    "status": "active"
+  },
+  {
+    "player_id": "P075",
+    "name": "Ryder Black",
+    "age": 43,
+    "debt": 513096,
+    "status": "active"
+  },
+  {
+    "player_id": "P076",
+    "name": "Jessica Richardson",
+    "age": 34,
+    "debt": 661440,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P077",
+    "name": "Bryan Grimes",
+    "age": 29,
+    "debt": 632794,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P078",
+    "name": "Sophia Lee",
+    "age": 38,
+    "debt": 973151,
+    "status": "active"
+  },
+  {
+    "player_id": "P079",
+    "name": "William Wright",
+    "age": 58,
+    "debt": 501795,
+    "status": "active"
+  },
+  {
+    "player_id": "P080",
+    "name": "Jorge Smith",
+    "age": 52,
+    "debt": 142501,
+    "status": "active"
+  },
+  {
+    "player_id": "P081",
+    "name": "Selina Gomez",
+    "age": 56,
+    "debt": 988528,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P082",
+    "name": "Summer Cabral",
+    "age": 31,
+    "debt": 808908,
+    "status": "active"
+  },
+  {
+    "player_id": "P083",
+    "name": "Sunny Rossetti",
+    "age": 21,
+    "debt": 336026,
+    "status": "active"
+  },
+  {
+    "player_id": "P084",
+    "name": "Michael Burgess",
+    "age": 21,
+    "debt": 328541,
+    "status": "active"
+  },
+  {
+    "player_id": "P085",
+    "name": "John Brown",
+    "age": 59,
+    "debt": 336852,
+    "status": "active"
+  },
+  {
+    "player_id": "P086",
+    "name": "Grant Pennington",
+    "age": 31,
+    "debt": 125689,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P087",
+    "name": "Antony Stark",
+    "age": 21,
+    "debt": 959010,
+    "status": "active"
+  },
+  {
+    "player_id": "P088",
+    "name": "Jeremy Gomez",
+    "age": 21,
+    "debt": 613375,
+    "status": "active"
+  },
+  {
+    "player_id": "P089",
+    "name": "Alexandra Daddario",
+    "age": 49,
+    "debt": 553891,
+    "status": "active"
+  },
+  {
+    "player_id": "P090",
+    "name": "Michael Ruiz",
+    "age": 37,
+    "debt": 868607,
+    "status": "active"
+  },
+  {
+    "player_id": "P091",
+    "name": "Jeanne Pierre",
+    "age": 29,
+    "debt": 605811,
+    "status": "active"
+  },
+  {
+    "player_id": "P092",
+    "name": "Blaise Duran",
+    "age": 43,
+    "debt": 797810,
+    "status": "active"
+  },
+  {
+    "player_id": "P093",
+    "name": "Christie Blake",
+    "age": 27,
+    "debt": 705114,
+    "status": "active"
+  },
+  {
+    "player_id": "P094",
+    "name": "Andrew Berry",
+    "age": 36,
+    "debt": 138927,
+    "status": "active"
+  },
+  {
+    "player_id": "P095",
+    "name": "Sophia White",
+    "age": 42,
+    "debt": 900243,
+    "status": "active"
+  },
+  {
+    "player_id": "P096",
+    "name": "Joel Murphy",
+    "age": 35,
+    "debt": 596060,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P097",
+    "name": "Leah Cruz",
+    "age": 50,
+    "debt": 456507,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P098",
+    "name": "Sara Salinas",
+    "age": 34,
+    "debt": 641080,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P099",
+    "name": "Dominic Kirby",
+    "age": 51,
+    "debt": 864349,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P100",
+    "name": "Mark Romero",
+    "age": 21,
+    "debt": 938849,
+    "status": "active"
+  },
+  {
+    "player_id": "P101",
+    "name": "Jose Mendoza",
+    "age": 40,
+    "debt": 173302,
+    "status": "active"
+  },
+  {
+    "player_id": "P102",
+    "name": "Owen Wilson",
+    "age": 20,
+    "debt": 373680,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P103",
+    "name": "Tammy Cruise",
+    "age": 18,
+    "debt": 787439,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P104",
+    "name": "Matthew Thompson",
+    "age": 20,
+    "debt": 449494,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P105",
+    "name": "Augustus Waters",
+    "age": 40,
+    "debt": 699881,
+    "status": "active"
+  },
+  {
+    "player_id": "P106",
+    "name": "Lara Jean",
+    "age": 46,
+    "debt": 826595,
+    "status": "active"
+  },
+  {
+    "player_id": "P107",
+    "name": "Michael White",
+    "age": 38,
+    "debt": 575621,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P108",
+    "name": "Amanda Horn DDS",
+    "age": 33,
+    "debt": 630734,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P109",
+    "name": "Mr. Ernest Washington",
+    "age": 57,
+    "debt": 684236,
+    "status": "active"
+  },
+  {
+    "player_id": "P110",
+    "name": "Manuel Stevens",
+    "age": 22,
+    "debt": 923639,
+    "status": "active"
+  },
+  {
+    "player_id": "P111",
+    "name": "David Brown",
+    "age": 21,
+    "debt": 703227,
+    "status": "active"
+  },
+  {
+    "player_id": "P112",
+    "name": "Blake Parsons",
+    "age": 52,
+    "debt": 441480,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P113",
+    "name": "Alyssa Hoover",
+    "age": 36,
+    "debt": 106265,
+    "status": "active"
+  },
+  {
+    "player_id": "P114",
+    "name": "Sophia Johnson",
+    "age": 18,
+    "debt": 231869,
+    "status": "active"
+  },
+  {
+    "player_id": "P115",
+    "name": "Brooke Vazquez",
+    "age": 38,
+    "debt": 683874,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P116",
+    "name": "Robert Frost",
+    "age": 28,
+    "debt": 819121,
+    "status": "active"
+  },
+  {
+    "player_id": "P117",
+    "name": "Alejandro Webster",
+    "age": 48,
+    "debt": 622357,
+    "status": "active"
+  },
+  {
+    "player_id": "P118",
+    "name": "Christiana Watts",
+    "age": 58,
+    "debt": 933237,
+    "status": "active"
+  },
+  {
+    "player_id": "P119",
+    "name": "Joshua Howard",
+    "age": 48,
+    "debt": 628544,
+    "status": "active"
+  },
+  {
+    "player_id": "P120",
+    "name": "Brandon Foster",
+    "age": 44,
+    "debt": 460941,
+    "status": "active"
+  },
+  {
+    "player_id": "P121",
+    "name": "Michael Strickland",
+    "age": 50,
+    "debt": 834018,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P122",
+    "name": "Annie Atkins",
+    "age": 46,
+    "debt": 905339,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P123",
+    "name": "Michael Shea",
+    "age": 54,
+    "debt": 922054,
+    "status": "active"
+  },
+  {
+    "player_id": "P124",
+    "name": "Jane Doe",
+    "age": 24,
+    "debt": 350287,
+    "status": "active"
+  },
+  {
+    "player_id": "P125",
+    "name": "Maria White",
+    "age": 54,
+    "debt": 890765,
+    "status": "active"
+  },
+  {
+    "player_id": "P126",
+    "name": "Sarah Smith",
+    "age": 18,
+    "debt": 791964,
+    "status": "active"
+  },
+  {
+    "player_id": "P127",
+    "name": "Elizabeth Williams",
+    "age": 50,
+    "debt": 689270,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P128",
+    "name": "Jane Brown",
+    "age": 48,
+    "debt": 693597,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P129",
+    "name": "Shane Watson",
+    "age": 20,
+    "debt": 934792,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P130",
+    "name": "Jasmine Mata",
+    "age": 23,
+    "debt": 944596,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P131",
+    "name": "Katherine Davies",
+    "age": 32,
+    "debt": 293538,
+    "status": "active"
+  },
+  {
+    "player_id": "P132",
+    "name": "Samuel Thomas",
+    "age": 37,
+    "debt": 461788,
+    "status": "active"
+  },
+  {
+    "player_id": "P133",
+    "name": "Chris Wilson",
+    "age": 39,
+    "debt": 162156,
+    "status": "active"
+  },
+  {
+    "player_id": "P134",
+    "name": "Kyle Strickland",
+    "age": 54,
+    "debt": 956902,
+    "status": "active"
+  },
+  {
+    "player_id": "P135",
+    "name": "Kale Carlsen",
+    "age": 53,
+    "debt": 686653,
+    "status": "active"
+  },
+  {
+    "player_id": "P136",
+    "name": "Jonathan Lopez",
+    "age": 54,
+    "debt": 835819,
+    "status": "active"
+  },
+  {
+    "player_id": "P137",
+    "name": "Joshua Carr",
+    "age": 39,
+    "debt": 850242,
+    "status": "active"
+  },
+  {
+    "player_id": "P138",
+    "name": "Darcy Lee",
+    "age": 44,
+    "debt": 463776,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P139",
+    "name": "Shanaya Ali",
+    "age": 18,
+    "debt": 319919,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P140",
+    "name": "Julias Caesar",
+    "age": 47,
+    "debt": 898800,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P141",
+    "name": "James Burke",
+    "age": 35,
+    "debt": 298696,
+    "status": "active"
+  },
+  {
+    "player_id": "P142",
+    "name": "Michael Lee",
+    "age": 39,
+    "debt": 956822,
+    "status": "active"
+  },
+  {
+    "player_id": "P143",
+    "name": "Thomas Nguyen",
+    "age": 43,
+    "debt": 150416,
+    "status": "active"
+  },
+  {
+    "player_id": "P144",
+    "name": "Kimberly Alvarez",
+    "age": 53,
+    "debt": 874141,
+    "status": "active"
+  },
+  {
+    "player_id": "P145",
+    "name": "Michael Flores",
+    "age": 49,
+    "debt": 412549,
+    "status": "active"
+  },
+  {
+    "player_id": "P146",
+    "name": "Clint Eastwood",
+    "age": 28,
+    "debt": 763635,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P147",
+    "name": "Michael Smith",
+    "age": 49,
+    "debt": 203110,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P148",
+    "name": "Jacqueline Schultz",
+    "age": 47,
+    "debt": 546147,
+    "status": "active"
+  },
+  {
+    "player_id": "P149",
+    "name": "Michael Jack",
+    "age": 45,
+    "debt": 440505,
+    "status": "active"
+  },
+  {
+    "player_id": "P150",
+    "name": "Jared Vargas",
+    "age": 23,
+    "debt": 710066,
+    "status": "active"
+  },
+  {
+    "player_id": "P151",
+    "name": "Camey Diaz",
+    "age": 52,
+    "debt": 147724,
+    "status": "active"
+  },
+  {
+    "player_id": "P152",
+    "name": "Blake Smith",
+    "age": 47,
+    "debt": 658805,
+    "status": "active"
+  },
+  {
+    "player_id": "P153",
+    "name": "Alexandria Carpenter",
+    "age": 24,
+    "debt": 983002,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P154",
+    "name": "Michael Maldonado",
+    "age": 57,
+    "debt": 811750,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P155",
+    "name": "Sneh Patel",
+    "age": 29,
+    "debt": 814356,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P156",
+    "name": "Eva Adams",
+    "age": 45,
+    "debt": 439088,
+    "status": "active"
+  },
+  {
+    "player_id": "P157",
+    "name": "Diana Rose",
+    "age": 38,
+    "debt": 305652,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P158",
+    "name": "William Wordsworth",
+    "age": 58,
+    "debt": 887542,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P159",
+    "name": "Jocelyn Campos",
+    "age": 28,
+    "debt": 105434,
+    "status": "active"
+  },
+  {
+    "player_id": "P160",
+    "name": "Avery West",
+    "age": 20,
+    "debt": 566114,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P161",
+    "name": "Anthony Wilson",
+    "age": 52,
+    "debt": 794495,
+    "status": "active"
+  },
+  {
+    "player_id": "P162",
+    "name": "Chris White",
+    "age": 38,
+    "debt": 877231,
+    "status": "active"
+  },
+  {
+    "player_id": "P163",
+    "name": "Eric Leonard",
+    "age": 39,
+    "debt": 736626,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P164",
+    "name": "Tailor Brooks",
+    "age": 18,
+    "debt": 668323,
+    "status": "active"
+  },
+  {
+    "player_id": "P165",
+    "name": "Ali Baig",
+    "age": 26,
+    "debt": 299318,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P166",
+    "name": "Hugh Gibson",
+    "age": 25,
+    "debt": 881263,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P167",
+    "name": "Melissa Fisher",
+    "age": 35,
+    "debt": 117881,
+    "status": "active"
+  },
+  {
+    "player_id": "P168",
+    "name": "Anna Lawrence",
+    "age": 33,
+    "debt": 513384,
+    "status": "active"
+  },
+  {
+    "player_id": "P169",
+    "name": "Sharon Castro",
+    "age": 46,
+    "debt": 672316,
+    "status": "active"
+  },
+  {
+    "player_id": "P170",
+    "name": "Matthew Clinton",
+    "age": 56,
+    "debt": 100752,
+    "status": "active"
+  },
+  {
+    "player_id": "P171",
+    "name": "George Washington",
+    "age": 42,
+    "debt": 437049,
+    "status": "active"
+  },
+  {
+    "player_id": "P172",
+    "name": "Michael Taylor",
+    "age": 37,
+    "debt": 304333,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P173",
+    "name": "Dakota Miles",
+    "age": 56,
+    "debt": 590154,
+    "status": "active"
+  },
+  {
+    "player_id": "P174",
+    "name": "Mary Cunningham",
+    "age": 47,
+    "debt": 752652,
+    "status": "active"
+  },
+  {
+    "player_id": "P175",
+    "name": "Debbie Ellis",
+    "age": 37,
+    "debt": 658819,
+    "status": "active"
+  },
+  {
+    "player_id": "P176",
+    "name": "Tiffany Tucker",
+    "age": 28,
+    "debt": 519448,
+    "status": "active"
+  },
+  {
+    "player_id": "P177",
+    "name": "Kimberly Williams",
+    "age": 25,
+    "debt": 604567,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P178",
+    "name": "Casey Harper",
+    "age": 22,
+    "debt": 123657,
+    "status": "active"
+  },
+  {
+    "player_id": "P179",
+    "name": "Heather Crosby",
+    "age": 24,
+    "debt": 226903,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P180",
+    "name": "Taylor Jacobson",
+    "age": 44,
+    "debt": 116301,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P181",
+    "name": "Alyssa Quinn",
+    "age": 46,
+    "debt": 190637,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P182",
+    "name": "Hermoine Granger",
+    "age": 19,
+    "debt": 803408,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P183",
+    "name": "James Bond",
+    "age": 21,
+    "debt": 536312,
+    "status": "active"
+  },
+  {
+    "player_id": "P184",
+    "name": "Michael Green",
+    "age": 22,
+    "debt": 310827,
+    "status": "active"
+  },
+  {
+    "player_id": "P185",
+    "name": "Sherry Ritter",
+    "age": 59,
+    "debt": 858973,
+    "status": "active"
+  },
+  {
+    "player_id": "P186",
+    "name": "Dennis Walker",
+    "age": 31,
+    "debt": 475651,
+    "status": "active"
+  },
+  {
+    "player_id": "P187",
+    "name": "Indigo Brown",
+    "age": 24,
+    "debt": 511965,
+    "status": "active"
+  },
+  {
+    "player_id": "P188",
+    "name": "Linda Crosby",
+    "age": 41,
+    "debt": 117283,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P189",
+    "name": "Tyler Young",
+    "age": 31,
+    "debt": 197675,
+    "status": "active"
+  },
+  {
+    "player_id": "P190",
+    "name": "Kristen White",
+    "age": 46,
+    "debt": 117664,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P191",
+    "name": "Dominic Patel",
+    "age": 32,
+    "debt": 511383,
+    "status": "active"
+  },
+  {
+    "player_id": "P192",
+    "name": "Patrick Smith",
+    "age": 24,
+    "debt": 447528,
+    "status": "active"
+  },
+  {
+    "player_id": "P193",
+    "name": "Sergio Vazquez",
+    "age": 39,
+    "debt": 947769,
+    "status": "active"
+  },
+  {
+    "player_id": "P194",
+    "name": "Natalie Portman",
+    "age": 28,
+    "debt": 477660,
+    "status": "active"
+  },
+  {
+    "player_id": "P195",
+    "name": "Eric Santiago",
+    "age": 21,
+    "debt": 618501,
+    "status": "active"
+  },
+  {
+    "player_id": "P196",
+    "name": "John Woods",
+    "age": 54,
+    "debt": 239550,
+    "status": "active"
+  },
+  {
+    "player_id": "P197",
+    "name": "Jennifer Reid",
+    "age": 37,
+    "debt": 445786,
+    "status": "active"
+  },
+  {
+    "player_id": "P198",
+    "name": "Ashley Thomas",
+    "age": 22,
+    "debt": 254547,
+    "status": "active"
+  },
+  {
+    "player_id": "P199",
+    "name": "Daniel Rodriguez",
+    "age": 41,
+    "debt": 960455,
+    "status": "active"
+  },
+  {
+    "player_id": "P200",
+    "name": "Donald Hill",
+    "age": 49,
+    "debt": 517447,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P201",
+    "name": "Shailene Woodley",
+    "age": 47,
+    "debt": 847477,
+    "status": "active"
+  },
+  {
+    "player_id": "P202",
+    "name": "Katherine Miller",
+    "age": 23,
+    "debt": 150299,
+    "status": "active"
+  },
+  {
+    "player_id": "P203",
+    "name": "Katrina Kaif",
+    "age": 22,
+    "debt": 607235,
+    "status": "active"
+  },
+  {
+    "player_id": "P204",
+    "name": "Wyatt Brookes",
+    "age": 42,
+    "debt": 475874,
+    "status": "active"
+  },
+  {
+    "player_id": "P205",
+    "name": "Kevin Davidson",
+    "age": 19,
+    "debt": 400069,
+    "status": "active"
+  },
+  {
+    "player_id": "P206",
+    "name": "Carter Hudson",
+    "age": 55,
+    "debt": 496840,
+    "status": "active"
+  },
+  {
+    "player_id": "P207",
+    "name": "Sarah Hart",
+    "age": 37,
+    "debt": 235312,
+    "status": "active"
+  },
+  {
+    "player_id": "P208",
+    "name": "Allison Lawson",
+    "age": 33,
+    "debt": 634376,
+    "status": "active"
+  },
+  {
+    "player_id": "P209",
+    "name": "Travis Scott",
+    "age": 51,
+    "debt": 616217,
+    "status": "active"
+  },
+  {
+    "player_id": "P210",
+    "name": "Parker Hernandez",
+    "age": 24,
+    "debt": 971168,
+    "status": "active"
+  },
+  {
+    "player_id": "P211",
+    "name": "Hannah Mejia",
+    "age": 20,
+    "debt": 103359,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P212",
+    "name": "Woody Harrelson",
+    "age": 54,
+    "debt": 312871,
+    "status": "active"
+  },
+  {
+    "player_id": "P213",
+    "name": "Joshua Mann",
+    "age": 35,
+    "debt": 198851,
+    "status": "active"
+  },
+  {
+    "player_id": "P214",
+    "name": "Olivia Boyd",
+    "age": 29,
+    "debt": 837566,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P215",
+    "name": "Levi Parker",
+    "age": 54,
+    "debt": 224225,
+    "status": "active"
+  },
+  {
+    "player_id": "P216",
+    "name": "Margaret Quinn",
+    "age": 25,
+    "debt": 809030,
+    "status": "active"
+  },
+  {
+    "player_id": "P217",
+    "name": "Mark Ruiz",
+    "age": 47,
+    "debt": 297305,
+    "status": "active"
+  },
+  {
+    "player_id": "P218",
+    "name": "Chris Doe",
+    "age": 52,
+    "debt": 371604,
+    "status": "active"
+  },
+  {
+    "player_id": "P219",
+    "name": "William Robinson",
+    "age": 38,
+    "debt": 803403,
+    "status": "active"
+  },
+  {
+    "player_id": "P220",
+    "name": "Dean Deleon",
+    "age": 29,
+    "debt": 836836,
+    "status": "active"
+  },
+  {
+    "player_id": "P221",
+    "name": "Katie Hall",
+    "age": 34,
+    "debt": 800483,
+    "status": "active"
+  },
+  {
+    "player_id": "P222",
+    "name": "Jakub Bujko",
+    "age": 33,
+    "debt": 801486,
+    "status": "active"
+  },
+  {
+    "player_id": "P223",
+    "name": "Paul Gray",
+    "age": 29,
+    "debt": 672771,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P224",
+    "name": "Jacqueline Villarreal",
+    "age": 58,
+    "debt": 629324,
+    "status": "active"
+  },
+  {
+    "player_id": "P225",
+    "name": "Cameron Ellis",
+    "age": 51,
+    "debt": 196952,
+    "status": "active"
+  },
+  {
+    "player_id": "P226",
+    "name": "Oscar Morales",
+    "age": 53,
+    "debt": 599337,
+    "status": "active"
+  },
+  {
+    "player_id": "P227",
+    "name": "Richard Cruz",
+    "age": 26,
+    "debt": 782881,
+    "status": "active"
+  },
+  {
+    "player_id": "P228",
+    "name": "Edward Flores",
+    "age": 35,
+    "debt": 335527,
+    "status": "active"
+  },
+  {
+    "player_id": "P229",
+    "name": "Joshua Larson",
+    "age": 24,
+    "debt": 726679,
+    "status": "active"
+  },
+  {
+    "player_id": "P230",
+    "name": "Daniel Soto",
+    "age": 50,
+    "debt": 431854,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P231",
+    "name": "Jose Knight",
+    "age": 21,
+    "debt": 834075,
+    "status": "active"
+  },
+  {
+    "player_id": "P232",
+    "name": "Troy Kidd",
+    "age": 46,
+    "debt": 367648,
+    "status": "active"
+  },
+  {
+    "player_id": "P233",
+    "name": "Sarah Green",
+    "age": 44,
+    "debt": 781403,
+    "status": "active"
+  },
+  {
+    "player_id": "P234",
+    "name": "Kimberly Smith",
+    "age": 42,
+    "debt": 214798,
+    "status": "active"
+  },
+  {
+    "player_id": "P235",
+    "name": "Kathleen Hicks",
+    "age": 60,
+    "debt": 697391,
+    "status": "active"
+  },
+  {
+    "player_id": "P236",
+    "name": "Andrew Tate",
+    "age": 52,
+    "debt": 229652,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P237",
+    "name": "Cameron Hernandez",
+    "age": 58,
+    "debt": 825157,
+    "status": "active"
+  },
+  {
+    "player_id": "P238",
+    "name": "Brook Kennedy",
+    "age": 42,
+    "debt": 542889,
+    "status": "active"
+  },
+  {
+    "player_id": "P239",
+    "name": "Kennedy Sutton",
+    "age": 26,
+    "debt": 976872,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P240",
+    "name": "Ryan Davidson",
+    "age": 47,
+    "debt": 107007,
+    "status": "active"
+  },
+  {
+    "player_id": "P241",
+    "name": "Jeffrey Mendez",
+    "age": 18,
+    "debt": 982264,
+    "status": "active"
+  },
+  {
+    "player_id": "P242",
+    "name": "Erica Robinson",
+    "age": 45,
+    "debt": 278741,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P243",
+    "name": "Austin Grant",
+    "age": 50,
+    "debt": 531868,
+    "status": "active"
+  },
+  {
+    "player_id": "P244",
+    "name": "Kevin Harding",
+    "age": 58,
+    "debt": 286282,
+    "status": "active"
+  },
+  {
+    "player_id": "P245",
+    "name": "Justin Just",
+    "age": 24,
+    "debt": 585369,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P246",
+    "name": "Christine Rodriguez",
+    "age": 31,
+    "debt": 381165,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P247",
+    "name": "Thomas Harrell",
+    "age": 27,
+    "debt": 532888,
+    "status": "active"
+  },
+  {
+    "player_id": "P248",
+    "name": "Mallory Holt",
+    "age": 49,
+    "debt": 545883,
+    "status": "active"
+  },
+  {
+    "player_id": "P249",
+    "name": "Mr. Adam Cisneros",
+    "age": 58,
+    "debt": 285689,
+    "status": "active"
+  },
+  {
+    "player_id": "P250",
+    "name": "Kristina Morgan",
+    "age": 26,
+    "debt": 715363,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P251",
+    "name": "James Walker",
+    "age": 26,
+    "debt": 132363,
+    "status": "active"
+  },
+  {
+    "player_id": "P252",
+    "name": "Marcus Schmidt",
+    "age": 29,
+    "debt": 902175,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P253",
+    "name": "Edward Pope",
+    "age": 39,
+    "debt": 107417,
+    "status": "active"
+  },
+  {
+    "player_id": "P254",
+    "name": "Alexis Hansen PhD",
+    "age": 60,
+    "debt": 278223,
+    "status": "active"
+  },
+  {
+    "player_id": "P255",
+    "name": "Robert Hanson",
+    "age": 27,
+    "debt": 820848,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P256",
+    "name": "Mikayla Fuller",
+    "age": 33,
+    "debt": 181996,
+    "status": "active"
+  },
+  {
+    "player_id": "P257",
+    "name": "Kendra Gilbert",
+    "age": 44,
+    "debt": 559051,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P258",
+    "name": "Brie Larson",
+    "age": 28,
+    "debt": 255417,
+    "status": "active"
+  },
+  {
+    "player_id": "P259",
+    "name": "Adam Kirk",
+    "age": 57,
+    "debt": 733648,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P260",
+    "name": "Shawn King",
+    "age": 43,
+    "debt": 319422,
+    "status": "active"
+  },
+  {
+    "player_id": "P261",
+    "name": "Matt Damon",
+    "age": 27,
+    "debt": 608061,
+    "status": "active"
+  },
+  {
+    "player_id": "P262",
+    "name": "Tracy Christensen",
+    "age": 54,
+    "debt": 309065,
+    "status": "active"
+  },
+  {
+    "player_id": "P263",
+    "name": "Jordan Lake",
+    "age": 58,
+    "debt": 704874,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P264",
+    "name": "Katherine Acevedo",
+    "age": 27,
+    "debt": 534647,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P265",
+    "name": "Lori Jones",
+    "age": 26,
+    "debt": 259750,
+    "status": "active"
+  },
+  {
+    "player_id": "P266",
+    "name": "Stella Grant",
+    "age": 52,
+    "debt": 138617,
+    "status": "active"
+  },
+  {
+    "player_id": "P267",
+    "name": "Hale Berry",
+    "age": 35,
+    "debt": 892929,
+    "status": "active"
+  },
+  {
+    "player_id": "P268",
+    "name": "Eileen Jenkins",
+    "age": 49,
+    "debt": 849443,
+    "status": "active"
+  },
+  {
+    "player_id": "P269",
+    "name": "Lucas Nelson",
+    "age": 50,
+    "debt": 223988,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P270",
+    "name": "Lawrence Wilson",
+    "age": 33,
+    "debt": 149079,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P271",
+    "name": "Luke Wilson",
+    "age": 53,
+    "debt": 192146,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P272",
+    "name": "Kelli Hill",
+    "age": 41,
+    "debt": 609903,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P273",
+    "name": "Crystal Thompson",
+    "age": 40,
+    "debt": 524770,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P274",
+    "name": "Gabrielle Lopez",
+    "age": 22,
+    "debt": 451263,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P275",
+    "name": "Charles Lara",
+    "age": 49,
+    "debt": 404580,
+    "status": "active"
+  },
+  {
+    "player_id": "P276",
+    "name": "Anne Roberts",
+    "age": 58,
+    "debt": 300824,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P277",
+    "name": "Anna Kendrick",
+    "age": 55,
+    "debt": 487164,
+    "status": "active"
+  },
+  {
+    "player_id": "P278",
+    "name": "Tom Hanks",
+    "age": 39,
+    "debt": 885978,
+    "status": "active"
+  },
+  {
+    "player_id": "P279",
+    "name": "Cory Patterson",
+    "age": 59,
+    "debt": 468064,
+    "status": "active"
+  },
+  {
+    "player_id": "P280",
+    "name": "Caleb Cardenas",
+    "age": 49,
+    "debt": 794320,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P281",
+    "name": "Brian Johnston",
+    "age": 56,
+    "debt": 272469,
+    "status": "active"
+  },
+  {
+    "player_id": "P282",
+    "name": "Bill Gates",
+    "age": 38,
+    "debt": 166522,
+    "status": "active"
+  },
+  {
+    "player_id": "P283",
+    "name": "James Hanson",
+    "age": 32,
+    "debt": 283300,
+    "status": "active"
+  },
+  {
+    "player_id": "P284",
+    "name": "Brandon Melton",
+    "age": 59,
+    "debt": 712526,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P285",
+    "name": "Brian Kaiser",
+    "age": 45,
+    "debt": 244976,
+    "status": "active"
+  },
+  {
+    "player_id": "P286",
+    "name": "Katherine Maxwell",
+    "age": 56,
+    "debt": 407442,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P287",
+    "name": "Paul Hunt",
+    "age": 58,
+    "debt": 430677,
+    "status": "active"
+  },
+  {
+    "player_id": "P288",
+    "name": "Curtis Moreno",
+    "age": 60,
+    "debt": 472352,
+    "status": "active"
+  },
+  {
+    "player_id": "P289",
+    "name": "John Ford",
+    "age": 60,
+    "debt": 775150,
+    "status": "active"
+  },
+  {
+    "player_id": "P290",
+    "name": "Cassidy Malone",
+    "age": 30,
+    "debt": 894078,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P291",
+    "name": "Christine Thompson",
+    "age": 50,
+    "debt": 202892,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P292",
+    "name": "Rachel Weiss",
+    "age": 57,
+    "debt": 490363,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P293",
+    "name": "Patrick Escobar",
+    "age": 47,
+    "debt": 839104,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P294",
+    "name": "Alice Wonderland",
+    "age": 49,
+    "debt": 836890,
+    "status": "active"
+  },
+  {
+    "player_id": "P295",
+    "name": "James Cole",
+    "age": 20,
+    "debt": 446697,
+    "status": "active"
+  },
+  {
+    "player_id": "P296",
+    "name": "Jessica Frey",
+    "age": 37,
+    "debt": 273660,
+    "status": "active"
+  },
+  {
+    "player_id": "P297",
+    "name": "Tommy Mason",
+    "age": 22,
+    "debt": 922800,
+    "status": "active"
+  },
+  {
+    "player_id": "P298",
+    "name": "Dustin Allison",
+    "age": 58,
+    "debt": 989777,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P299",
+    "name": "Andre Moore",
+    "age": 59,
+    "debt": 456327,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P300",
+    "name": "Rebecca Baker",
+    "age": 42,
+    "debt": 316777,
+    "status": "active"
+  },
+  {
+    "player_id": "P301",
+    "name": "Steven Nichols",
+    "age": 43,
+    "debt": 970178,
+    "status": "active"
+  },
+  {
+    "player_id": "P302",
+    "name": "Amanda Wright",
+    "age": 33,
+    "debt": 971348,
+    "status": "active"
+  },
+  {
+    "player_id": "P303",
+    "name": "Nicholas Robinson",
+    "age": 56,
+    "debt": 268815,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P304",
+    "name": "Matthew Mccann",
+    "age": 20,
+    "debt": 521030,
+    "status": "active"
+  },
+  {
+    "player_id": "P305",
+    "name": "Kenneth Baxter",
+    "age": 44,
+    "debt": 745140,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P306",
+    "name": "Douglas Garcia",
+    "age": 25,
+    "debt": 547293,
+    "status": "active"
+  },
+  {
+    "player_id": "P307",
+    "name": "Jazie Jazz",
+    "age": 50,
+    "debt": 480745,
+    "status": "active"
+  },
+  {
+    "player_id": "P308",
+    "name": "Everett Stone",
+    "age": 46,
+    "debt": 696826,
+    "status": "active"
+  },
+  {
+    "player_id": "P309",
+    "name": "Edward Spencer",
+    "age": 24,
+    "debt": 636755,
+    "status": "active"
+  },
+  {
+    "player_id": "P310",
+    "name": "Victoria Perez DDS",
+    "age": 57,
+    "debt": 935564,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P311",
+    "name": "Thomas Bautista",
+    "age": 45,
+    "debt": 741950,
+    "status": "active"
+  },
+  {
+    "player_id": "P312",
+    "name": "Deborah Herrera",
+    "age": 46,
+    "debt": 119890,
+    "status": "active"
+  },
+  {
+    "player_id": "P313",
+    "name": "William Barnett",
+    "age": 38,
+    "debt": 703248,
+    "status": "active"
+  },
+  {
+    "player_id": "P314",
+    "name": "Aria Solberg",
+    "age": 24,
+    "debt": 203758,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P315",
+    "name": "Walter Hall",
+    "age": 60,
+    "debt": 447159,
+    "status": "active"
+  },
+  {
+    "player_id": "P316",
+    "name": "Cheryl Johnson",
+    "age": 21,
+    "debt": 468890,
+    "status": "active"
+  },
+  {
+    "player_id": "P317",
+    "name": "Johnathan Stone",
+    "age": 45,
+    "debt": 270765,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P318",
+    "name": "Randall Reid",
+    "age": 19,
+    "debt": 310250,
+    "status": "active"
+  },
+  {
+    "player_id": "P319",
+    "name": "Robert Thomas",
+    "age": 27,
+    "debt": 523483,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P320",
+    "name": "Jonathan Cardenas",
+    "age": 26,
+    "debt": 535374,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P321",
+    "name": "Emily Johnston",
+    "age": 56,
+    "debt": 949920,
+    "status": "active"
+  },
+  {
+    "player_id": "P322",
+    "name": "Lindsey Turner",
+    "age": 40,
+    "debt": 625941,
+    "status": "active"
+  },
+  {
+    "player_id": "P323",
+    "name": "Jennifer Garner",
+    "age": 46,
+    "debt": 203007,
+    "status": "active"
+  },
+  {
+    "player_id": "P324",
+    "name": "Angela Finley",
+    "age": 42,
+    "debt": 391423,
+    "status": "active"
+  },
+  {
+    "player_id": "P325",
+    "name": "Ryan Morales",
+    "age": 24,
+    "debt": 743406,
+    "status": "active"
+  },
+  {
+    "player_id": "P326",
+    "name": "Karla Whitehead",
+    "age": 28,
+    "debt": 992410,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P327",
+    "name": "Lauren Russell",
+    "age": 54,
+    "debt": 644472,
+    "status": "active"
+  },
+  {
+    "player_id": "P328",
+    "name": "Andrewson Garfield",
+    "age": 54,
+    "debt": 975852,
+    "status": "active"
+  },
+  {
+    "player_id": "P329",
+    "name": "Isolde Navarro",
+    "age": 19,
+    "debt": 406762,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P330",
+    "name": "Michael Hansen",
+    "age": 22,
+    "debt": 797408,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P331",
+    "name": "Nathan Burke",
+    "age": 38,
+    "debt": 758310,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P332",
+    "name": "Michael Hernandez",
+    "age": 30,
+    "debt": 953886,
+    "status": "active"
+  },
+  {
+    "player_id": "P333",
+    "name": "Rebecca Jackson",
+    "age": 56,
+    "debt": 642006,
+    "status": "active"
+  },
+  {
+    "player_id": "P334",
+    "name": "Autumn Hayes",
+    "age": 29,
+    "debt": 457382,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P335",
+    "name": "Tom Hardy",
+    "age": 25,
+    "debt": 810079,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P336",
+    "name": "Bruce Lee",
+    "age": 52,
+    "debt": 766866,
+    "status": "active"
+  },
+  {
+    "player_id": "P337",
+    "name": "Aiden Quinn",
+    "age": 34,
+    "debt": 977084,
+    "status": "active"
+  },
+  {
+    "player_id": "P338",
+    "name": "Elijah Pruitt",
+    "age": 48,
+    "debt": 558612,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P339",
+    "name": "Christine Moss",
+    "age": 26,
+    "debt": 821958,
+    "status": "active"
+  },
+  {
+    "player_id": "P340",
+    "name": "Antonio Banderas",
+    "age": 57,
+    "debt": 617914,
+    "status": "active"
+  },
+  {
+    "player_id": "P341",
+    "name": "Reese Witherspoon",
+    "age": 33,
+    "debt": 165533,
+    "status": "active"
+  },
+  {
+    "player_id": "P342",
+    "name": "Victoria Crawford",
+    "age": 59,
+    "debt": 882698,
+    "status": "active"
+  },
+  {
+    "player_id": "P343",
+    "name": "Rosy Rodriguez",
+    "age": 24,
+    "debt": 655443,
+    "status": "active"
+  },
+  {
+    "player_id": "P344",
+    "name": "Brian Smith",
+    "age": 49,
+    "debt": 838012,
+    "status": "active"
+  },
+  {
+    "player_id": "P345",
+    "name": "Tom Trevino",
+    "age": 23,
+    "debt": 124758,
+    "status": "active"
+  },
+  {
+    "player_id": "P346",
+    "name": "Henry Parker",
+    "age": 31,
+    "debt": 888098,
+    "status": "active"
+  },
+  {
+    "player_id": "P347",
+    "name": "Ms. Cheryl Hood",
+    "age": 57,
+    "debt": 886100,
+    "status": "active"
+  },
+  {
+    "player_id": "P348",
+    "name": "Jay Espinoza",
+    "age": 24,
+    "debt": 538028,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P349",
+    "name": "Tammy Wall",
+    "age": 30,
+    "debt": 619546,
+    "status": "active"
+  },
+  {
+    "player_id": "P350",
+    "name": "Dakota Wilkins",
+    "age": 59,
+    "debt": 165751,
+    "status": "active"
+  },
+  {
+    "player_id": "P351",
+    "name": "Sally Stanley",
+    "age": 37,
+    "debt": 195629,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P352",
+    "name": "Hector Collins",
+    "age": 27,
+    "debt": 913228,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P353",
+    "name": "Zara Belmonte",
+    "age": 25,
+    "debt": 816165,
+    "status": "active"
+  },
+  {
+    "player_id": "P354",
+    "name": "Robert Redford",
+    "age": 43,
+    "debt": 638698,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P355",
+    "name": "Shelby Lawson",
+    "age": 52,
+    "debt": 368421,
+    "status": "active"
+  },
+  {
+    "player_id": "P356",
+    "name": "Collin Farrell",
+    "age": 46,
+    "debt": 452322,
+    "status": "active"
+  },
+  {
+    "player_id": "P357",
+    "name": "Vani Lawrence",
+    "age": 35,
+    "debt": 193013,
+    "status": "active"
+  },
+  {
+    "player_id": "P358",
+    "name": "Stephanie Lee",
+    "age": 21,
+    "debt": 881740,
+    "status": "active"
+  },
+  {
+    "player_id": "P359",
+    "name": "Marie Graham",
+    "age": 50,
+    "debt": 159178,
+    "status": "active"
+  },
+  {
+    "player_id": "P360",
+    "name": "Mr. Patrick Smith",
+    "age": 24,
+    "debt": 326538,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P361",
+    "name": "Jade Monroe",
+    "age": 24,
+    "debt": 104421,
+    "status": "active"
+  },
+  {
+    "player_id": "P362",
+    "name": "Harry Potter",
+    "age": 48,
+    "debt": 786032,
+    "status": "active"
+  },
+  {
+    "player_id": "P363",
+    "name": "Adrian Webb",
+    "age": 48,
+    "debt": 843337,
+    "status": "active"
+  },
+  {
+    "player_id": "P364",
+    "name": "Jennifer Richardson",
+    "age": 23,
+    "debt": 307511,
+    "status": "active"
+  },
+  {
+    "player_id": "P365",
+    "name": "Joshua Weaver",
+    "age": 33,
+    "debt": 957515,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P366",
+    "name": "Lori Moran",
+    "age": 25,
+    "debt": 254503,
+    "status": "active"
+  },
+  {
+    "player_id": "P367",
+    "name": "Milly Jake",
+    "age": 28,
+    "debt": 112654,
+    "status": "active"
+  },
+  {
+    "player_id": "P368",
+    "name": "Paul Thompson",
+    "age": 31,
+    "debt": 619835,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P369",
+    "name": "Patricia Gordon",
+    "age": 24,
+    "debt": 932743,
+    "status": "active"
+  },
+  {
+    "player_id": "P370",
+    "name": "Samantha Liu PhD",
+    "age": 24,
+    "debt": 659787,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P371",
+    "name": "Madison Blake",
+    "age": 20,
+    "debt": 565900,
+    "status": "active"
+  },
+  {
+    "player_id": "P372",
+    "name": "Alyssa Herrera",
+    "age": 38,
+    "debt": 863777,
+    "status": "active"
+  },
+  {
+    "player_id": "P373",
+    "name": "Andrew Austin",
+    "age": 21,
+    "debt": 877859,
+    "status": "active"
+  },
+  {
+    "player_id": "P374",
+    "name": "Emerson Page",
+    "age": 56,
+    "debt": 817181,
+    "status": "active"
+  },
+  {
+    "player_id": "P375",
+    "name": "Scarlett Dawson",
+    "age": 23,
+    "debt": 494342,
+    "status": "active"
+  },
+  {
+    "player_id": "P376",
+    "name": "Wayne Robinson",
+    "age": 59,
+    "debt": 717189,
+    "status": "active"
+  },
+  {
+    "player_id": "P377",
+    "name": "James Ball",
+    "age": 28,
+    "debt": 712487,
+    "status": "active"
+  },
+  {
+    "player_id": "P378",
+    "name": "Alexander Russell",
+    "age": 36,
+    "debt": 253723,
+    "status": "active"
+  },
+  {
+    "player_id": "P379",
+    "name": "Mila Kunis",
+    "age": 33,
+    "debt": 363822,
+    "status": "active"
+  },
+  {
+    "player_id": "P380",
+    "name": "Amber Heard",
+    "age": 47,
+    "debt": 850396,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P381",
+    "name": "Justin Yu",
+    "age": 31,
+    "debt": 857798,
+    "status": "active"
+  },
+  {
+    "player_id": "P382",
+    "name": "Hector Garcia",
+    "age": 47,
+    "debt": 486597,
+    "status": "active"
+  },
+  {
+    "player_id": "P383",
+    "name": "Robert Quinn",
+    "age": 26,
+    "debt": 989985,
+    "status": "active"
+  },
+  {
+    "player_id": "P384",
+    "name": "Laura Shaw",
+    "age": 60,
+    "debt": 865466,
+    "status": "active"
+  },
+  {
+    "player_id": "P385",
+    "name": "Suzanne Marsh",
+    "age": 50,
+    "debt": 760888,
+    "status": "active"
+  },
+  {
+    "player_id": "P386",
+    "name": "Annette Jones",
+    "age": 59,
+    "debt": 285555,
+    "status": "active"
+  },
+  {
+    "player_id": "P387",
+    "name": "Elizabeth Henderson",
+    "age": 22,
+    "debt": 639595,
+    "status": "active"
+  },
+  {
+    "player_id": "P388",
+    "name": "Delaney Ford",
+    "age": 53,
+    "debt": 423642,
+    "status": "active"
+  },
+  {
+    "player_id": "P389",
+    "name": "Addison Reed",
+    "age": 26,
+    "debt": 901048,
+    "status": "active"
+  },
+  {
+    "player_id": "P390",
+    "name": "Raymond Berry",
+    "age": 32,
+    "debt": 754497,
+    "status": "active"
+  },
+  {
+    "player_id": "P391",
+    "name": "Patrick Velazquez",
+    "age": 19,
+    "debt": 798796,
+    "status": "active"
+  },
+  {
+    "player_id": "P392",
+    "name": "Helena Lysander",
+    "age": 31,
+    "debt": 695733,
+    "status": "active"
+  },
+  {
+    "player_id": "P393",
+    "name": "Janet Galvan",
+    "age": 41,
+    "debt": 997218,
+    "status": "active"
+  },
+  {
+    "player_id": "P394",
+    "name": "Cheryl Nelson",
+    "age": 35,
+    "debt": 530708,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P395",
+    "name": "Rose Collins",
+    "age": 51,
+    "debt": 925218,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P396",
+    "name": "Larry Campbell",
+    "age": 25,
+    "debt": 176588,
+    "status": "active"
+  },
+  {
+    "player_id": "P397",
+    "name": "Emma Adams",
+    "age": 59,
+    "debt": 494684,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P398",
+    "name": "Sandra Holder",
+    "age": 51,
+    "debt": 773444,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P399",
+    "name": "Joseph Cook",
+    "age": 40,
+    "debt": 996867,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P400",
+    "name": "Amy Jackson",
+    "age": 53,
+    "debt": 238505,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P401",
+    "name": "Steven Henderson",
+    "age": 36,
+    "debt": 817397,
+    "status": "active"
+  },
+  {
+    "player_id": "P402",
+    "name": "Stephen Johnson",
+    "age": 24,
+    "debt": 607859,
+    "status": "active"
+  },
+  {
+    "player_id": "P403",
+    "name": "Nicole Hansen",
+    "age": 36,
+    "debt": 755989,
+    "status": "active"
+  },
+  {
+    "player_id": "P404",
+    "name": "Jay Peters",
+    "age": 51,
+    "debt": 941042,
+    "status": "active"
+  },
+  {
+    "player_id": "P405",
+    "name": "Amanda Roberson",
+    "age": 30,
+    "debt": 495560,
+    "status": "active"
+  },
+  {
+    "player_id": "P406",
+    "name": "Ada Grace",
+    "age": 42,
+    "debt": 694705,
+    "status": "active"
+  },
+  {
+    "player_id": "P407",
+    "name": "Thomas Smith",
+    "age": 38,
+    "debt": 585759,
+    "status": "active"
+  },
+  {
+    "player_id": "P408",
+    "name": "Jonathan Golden",
+    "age": 33,
+    "debt": 749771,
+    "status": "active"
+  },
+  {
+    "player_id": "P409",
+    "name": "Robert Stewart",
+    "age": 49,
+    "debt": 899754,
+    "status": "active"
+  },
+  {
+    "player_id": "P410",
+    "name": "Daniel Walters",
+    "age": 21,
+    "debt": 699653,
+    "status": "active"
+  },
+  {
+    "player_id": "P411",
+    "name": "Manuel Solomon",
+    "age": 59,
+    "debt": 464552,
+    "status": "active"
+  },
+  {
+    "player_id": "P412",
+    "name": "Vanessa Lovelace",
+    "age": 54,
+    "debt": 349001,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P413",
+    "name": "Angela Reynolds",
+    "age": 55,
+    "debt": 349056,
+    "status": "active"
+  },
+  {
+    "player_id": "P414",
+    "name": "Michelle Smith",
+    "age": 35,
+    "debt": 742740,
+    "status": "active"
+  },
+  {
+    "player_id": "P415",
+    "name": "Liam Reeves",
+    "age": 30,
+    "debt": 420909,
+    "status": "active"
+  },
+  {
+    "player_id": "P416",
+    "name": "Hunter Oliver",
+    "age": 28,
+    "debt": 381656,
+    "status": "active"
+  },
+  {
+    "player_id": "P417",
+    "name": "Jake Juarez",
+    "age": 58,
+    "debt": 674171,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P418",
+    "name": "Pippie Morgan",
+    "age": 60,
+    "debt": 688763,
+    "status": "active"
+  },
+  {
+    "player_id": "P419",
+    "name": "Audrey Reeves",
+    "age": 47,
+    "debt": 656393,
+    "status": "active"
+  },
+  {
+    "player_id": "P420",
+    "name": "Ron Weasley",
+    "age": 59,
+    "debt": 514002,
+    "status": "active"
+  },
+  {
+    "player_id": "P421",
+    "name": "Mary Ward",
+    "age": 48,
+    "debt": 758199,
+    "status": "active"
+  },
+  {
+    "player_id": "P422",
+    "name": "Vanessa Hamilton",
+    "age": 53,
+    "debt": 579494,
+    "status": "active"
+  },
+  {
+    "player_id": "P423",
+    "name": "Michele Gonzalez",
+    "age": 35,
+    "debt": 798994,
+    "status": "active"
+  },
+  {
+    "player_id": "P424",
+    "name": "Jennifer Benitez",
+    "age": 59,
+    "debt": 474957,
+    "status": "active"
+  },
+  {
+    "player_id": "P425",
+    "name": "Brian Butler",
+    "age": 19,
+    "debt": 825394,
+    "status": "active"
+  },
+  {
+    "player_id": "P426",
+    "name": "Amber Mcguire",
+    "age": 21,
+    "debt": 747422,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P427",
+    "name": "Bradd Pitt",
+    "age": 48,
+    "debt": 532791,
+    "status": "active"
+  },
+  {
+    "player_id": "P428",
+    "name": "Joel Schneider",
+    "age": 58,
+    "debt": 819963,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P429",
+    "name": "Krista Wilson",
+    "age": 30,
+    "debt": 382533,
+    "status": "active"
+  },
+  {
+    "player_id": "P430",
+    "name": "Junia Blackwood",
+    "age": 29,
+    "debt": 536263,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P431",
+    "name": "Cheryl Wood",
+    "age": 31,
+    "debt": 679797,
+    "status": "active"
+  },
+  {
+    "player_id": "P432",
+    "name": "Christopher Jackman",
+    "age": 38,
+    "debt": 961928,
+    "status": "active"
+  },
+  {
+    "player_id": "P433",
+    "name": "Christina Stewart",
+    "age": 18,
+    "debt": 298507,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P434",
+    "name": "Andrea Cummings",
+    "age": 45,
+    "debt": 951407,
+    "status": "active"
+  },
+  {
+    "player_id": "P435",
+    "name": "Jesus Acosta",
+    "age": 52,
+    "debt": 587497,
+    "status": "active"
+  },
+  {
+    "player_id": "P436",
+    "name": "Larry Lozano",
+    "age": 46,
+    "debt": 718887,
+    "status": "active"
+  },
+  {
+    "player_id": "P437",
+    "name": "Mark Cox",
+    "age": 55,
+    "debt": 723156,
+    "status": "active"
+  },
+  {
+    "player_id": "P438",
+    "name": "Matilda Blackwood",
+    "age": 57,
+    "debt": 373122,
+    "status": "active"
+  },
+  {
+    "player_id": "P439",
+    "name": "Amanda Tanner",
+    "age": 29,
+    "debt": 643907,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P440",
+    "name": "Lily Bloom",
+    "age": 20,
+    "debt": 971496,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P441",
+    "name": "Joseph Sexton",
+    "age": 23,
+    "debt": 404106,
+    "status": "active"
+  },
+  {
+    "player_id": "P442",
+    "name": "Rachel Craig",
+    "age": 57,
+    "debt": 271128,
+    "status": "active"
+  },
+  {
+    "player_id": "P443",
+    "name": "Patricia Perez",
+    "age": 26,
+    "debt": 472585,
+    "status": "active"
+  },
+  {
+    "player_id": "P444",
+    "name": "Hayley Carr",
+    "age": 27,
+    "debt": 978040,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P445",
+    "name": "Jennie Hart",
+    "age": 38,
+    "debt": 837661,
+    "status": "active"
+  },
+  {
+    "player_id": "P446",
+    "name": "Tanner Chase",
+    "age": 27,
+    "debt": 120308,
+    "status": "active"
+  },
+  {
+    "player_id": "P447",
+    "name": "Alexandra Novak",
+    "age": 28,
+    "debt": 119588,
+    "status": "active"
+  },
+  {
+    "player_id": "P448",
+    "name": "David Austin",
+    "age": 19,
+    "debt": 296392,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P449",
+    "name": "Lori Fields",
+    "age": 29,
+    "debt": 785159,
+    "status": "active"
+  },
+  {
+    "player_id": "P450",
+    "name": "David Cain",
+    "age": 49,
+    "debt": 935613,
+    "status": "active"
+  },
+  {
+    "player_id": "P451",
+    "name": "Dennis Garcia",
+    "age": 24,
+    "debt": 186534,
+    "status": "active"
+  },
+  {
+    "player_id": "P452",
+    "name": "Janet Christian",
+    "age": 50,
+    "debt": 801365,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P453",
+    "name": "Amanda Johnston",
+    "age": 49,
+    "debt": 736083,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P454",
+    "name": "Deborah Fernandez",
+    "age": 35,
+    "debt": 734097,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P455",
+    "name": "Finn Copper",
+    "age": 36,
+    "debt": 545611,
+    "status": "eliminated"
+  },
+  {
+    "player_id": "P456",
+    "name": "Spencer Ross",
+    "age": 39,
+    "debt": 714192,
+    "status": "eliminated"
+  }
+]
